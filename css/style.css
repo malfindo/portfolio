@@ -1,0 +1,40 @@
+
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #ecfdff;
+}
+#about {
+  padding-top: 5rem;
+}
+
+#projects {
+  padding-top: 5rem;
+  background-color: #ecfdff;
+
+}
+
+#contact {
+  padding-bottom: 50px;
+  background-color: #fff;
+}
+#contact button {
+  border: none;
+  background-color: #009fb4;
+  box-shadow: 1px 1px 5px #ddd;
+}
+
+#contact button:hover {
+  background-color: #006473;
+}
+
+#contact .row {
+  text-align: left;
+}
+
+footer {
+  /* padding-top: 15px; */
+  background-color: rgb(0, 160, 180);
+}
+
+/* #006473 */
